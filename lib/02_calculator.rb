@@ -25,5 +25,8 @@ def factorial(number)
 		fact = fact * n
 		n -=  1
 	end
-	#puts fact
+	puts fact
 end
+
+#rspec spec/02_calculator_spec.rb
+
